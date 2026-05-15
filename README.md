@@ -84,12 +84,6 @@ Open http://localhost:5000 in your browser.
 
 ---
 
-## 💡 What to Tell Interviewers
-
-- "I generated a realistic synthetic dataset modelling actual placement patterns"
-- "I compared 3 models using 5-fold cross-validation before selecting Random Forest"
-- "I built a full pipeline (preprocessing → model) and serialized it for deployment"
-- "The Flask UI gives real-time predictions with personalized improvement tips"
 
 ---
 
